@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'laravel/laravel',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => NULL,
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
+        'reference' => 'cc72684cea1cf15131daa73fbeef3e75d16f2f0e',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -392,9 +392,9 @@
             'dev_requirement' => false,
         ),
         'laravel/laravel' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => NULL,
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'reference' => 'cc72684cea1cf15131daa73fbeef3e75d16f2f0e',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
@@ -978,9 +978,9 @@
             'dev_requirement' => true,
         ),
         'symfony/console' => array(
-            'pretty_version' => 'v6.2.7',
-            'version' => '6.2.7.0',
-            'reference' => 'cbad09eb8925b6ad4fb721c7a179344dc4a19d45',
+            'pretty_version' => 'v6.2.10',
+            'version' => '6.2.10.0',
+            'reference' => '12288d9f4500f84a4d02254d4aa968b15488476f',
             'type' => 'library',
             'install_path' => __DIR__ . '/../symfony/console',
             'aliases' => array(),
